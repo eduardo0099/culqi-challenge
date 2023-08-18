@@ -52,5 +52,6 @@ curl --location 'http://127.0.0.1:3000/card' \
 ```
 
 ```bash
-curl --location 'http://127.0.0.1:3000/card?token=Wj1ct5U4n6Avbbh4'
+curl --location 'http://127.0.0.1:3000/card?token=jfqhWdrIMJx3kuRl' \
+--header 'Authorization: Bearer pk_test_LsRBKejzCOEEWOsw'
 ```
